@@ -1,0 +1,13 @@
+.card {
+  border: 1px solid blue;
+  width: 20vw;
+  height: 30vh;
+  margin: 15px auto;
+  display: flex;
+  justify-content: center;
+  
+
+  & img {
+    width: 20vw;
+  }
+}
